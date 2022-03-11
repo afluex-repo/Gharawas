@@ -1585,7 +1585,7 @@ Main Banner Area CSS
     z-index: 1;
     position: relative;
     padding-top: 100px;
-    padding-bottom: 50px;
+    padding-bottom: 100px;
     background-image: url('../img/banner-image/main.jpg');
     background-position: center center;
     background-repeat: no-repeat;
@@ -1601,7 +1601,7 @@ Main Banner Area CSS
         z-index: -1;
         opacity: .85;
         position: absolute;
-        background-color: #3f2001ed;
+        background-color: #02153dde;
     }
 
     .home-area:hover .home-slides.owl-theme .owl-nav {
