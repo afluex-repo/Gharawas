@@ -8,7 +8,7 @@ document.write(`
 							<div class ="logo">
                             <div class="text-center">
 								<a href="index.html"><img src="assets/img/logo.png" alt="logo" width="100px"></a>
-                                <h6 class ="logo-tagline">One Step Towards Success</h6>
+                                <!----<h6 class ="logo-tagline">One Step Towards Success</h6>---->
                                 </div>
                                 <p style="text-align: justify;">We offer a powerful trading software, an automated trading bot that has helped 5000+traders to get results -now it can help you too!</p>
 							</div>
@@ -63,7 +63,7 @@ document.write(`
 				</div>
 
                 <div class ="copyright-area">
-                    <p>Copyright @2022. All rights reserved by <a href="#">My Trade</a></p>
+                    <p>Copyright @2022. All rights reserved by <a href="#">Gharawas</a></p>
                 </div>
             </div>
 

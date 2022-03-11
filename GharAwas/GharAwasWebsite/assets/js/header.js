@@ -42,7 +42,7 @@ document.write(`
                         <div class ="logo" style="width: 100px">
                             <a href="index.html">
                                 <img src="assets/img/logo.png" alt="logo">
-                                <img src="assets/img/logo.png" alt="logo">
+                                <img src="assets/img/logo.png" alt="logo" width="80px">
                             </a>
                         </div>
                     </div>
@@ -54,7 +54,7 @@ document.write(`
                     <nav class ="navbar navbar-expand-md navbar-light">
                         <a class ="navbar-brand" href="index.html">
                             <img src="assets/img/logo.png" alt="logo" width="100px">
-                            <img src="assets/img/logo.png" alt="logo" width="100px">
+                            <img src="assets/img/logo.png" alt="logo" width="90px">
                         </a>
 
                         <div class ="collapse navbar-collapse mean-menu" id="navbarSupportedContent">
@@ -64,13 +64,13 @@ document.write(`
 
                                 <li class ="nav-item"><a href="about.html" class ="nav-link">About Us</a></li>
 
-                                <li class ="nav-item"><a href="forex.html" class ="nav-link">Forex</a></li>
+                                <li class ="nav-item"><a href="forex.html" class ="nav-link">Real Estate</a></li>
 
                                 <li class ="nav-item"><a href="services.html" class ="nav-link">Services</a></li>
 
                                 <li class ="nav-item"><a href="coming.html" class ="nav-link">Products</a></li>
 
-                                <li class ="nav-item"><a class ="nav-link">Recharge & Bill<i class ="fas fa-chevron-down"></i></a>
+                                <!--<li class ="nav-item"><a class ="nav-link">Recharge & Bill<i class ="fas fa-chevron-down"></i></a>
                                     <ul class ="dropdown-menu">
                                         <li class ="nav-item"><a href="#recharge&bill" class ="nav-link">Mobile</a></li>
 
@@ -93,7 +93,7 @@ document.write(`
                                         <li class ="nav-item"><a href="#" class ="nav-link">Water</a></li>
 
                                     </ul>
-                                </li>
+                                </li>-->
 
                                 <li class ="nav-item"><a href="contact.html" class ="nav-link">Contact Us</a></li>
                             </ul>
