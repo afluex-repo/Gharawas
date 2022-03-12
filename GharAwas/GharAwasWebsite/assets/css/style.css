@@ -5374,14 +5374,14 @@ Login Area CSS
 }
 
 .loginimg {
-    background-color: #f6e6d6;
+    background-color: #ffffff;
     border-radius: 35px 0 0 35px;
     padding: 20px 50px;
     background-image: url(../img/login.png);
 }
 
 .loginform {
-    background-color: #ffffff;
+    background-color: #9ae8fce6;
     border-radius: 0 35px 35px 0;
     padding: 20px 50px;
 }
@@ -5529,7 +5529,7 @@ Signup Area CSS
         margin-right: auto;
         background-color: #ffc444cf;
         border-radius: 10px;
-        padding: 30px 40px;
+        padding: 20px 40px;
     }
 
         .signup-content .signup-form .logo {
