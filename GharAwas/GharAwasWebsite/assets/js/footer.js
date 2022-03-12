@@ -10,7 +10,7 @@ document.write(`
 								<a href="index.html"><img src="assets/img/logo.png" alt="logo" width="100px"></a>
                                 <!----<h6 class ="logo-tagline">One Step Towards Success</h6>---->
                                 </div>
-                                <p style="text-align: justify;">We offer a powerful trading software, an automated trading bot that has helped 5000+traders to get results -now it can help you too!</p>
+                                <p style="text-align: justify;">The company has a diverse range of expertise that allows them to have a good oversight and management of all aspects of a project right from the acquisition of land, appointment of architects and designers, sales to after sales service.</p>
 							</div>
 
 							<ul class ="social-links">
@@ -28,7 +28,7 @@ document.write(`
 
 							<ul class ="list">
                                 <li><a href="about.html">About Us</a></li>
-								<li><a href="forex.html">Forex</a></li>
+								<li><a href="real-estate.html">Real Estate</a></li>
 								<li><a href="services.html">Services</a></li>
 								<li><a href="coming.html">Product</a></li>
 
@@ -41,10 +41,10 @@ document.write(`
                             <h3>Support</h3>
 
 							<ul class ="list">
-                                <li><a href="index.html">Recharge & Bill</a></li>
 								<li><a href="terms&condition.html">Terms & Condition</a></li>
                                 <li><a href="privacy.html">Privacy Policy</a></li>
 								<li><a href="contact.html">Contact Us</a></li>
+                                <li><a href="/Home/Login">Login</a></li>
 							</ul>
 						</div>
 					</div>
@@ -54,16 +54,16 @@ document.write(`
 							<h3>Address</h3>
 
 							<ul class ="footer-contact-info">
-								<li><span>Address : </span> 72/2 Purba Road Dumdum Kolkata -700030 West Bengal</li>
+								<li><span>Address : </span> xyz, Lucknow, Uttar Pradesh, India</li>
 								<li><span><i class ="fas fa-envelope"></i> &nbsp; </span> <a href="mailto:support@GharAwas.co.in">support@GharAwas.co.in</a></li>
-								<li><span><i class="fab fa-whatsapp"></i> &nbsp; </span> <a href="tel:7050193183">70 5019 3183</a></li>
+								<li><span><i class="fa fa-phone"></i> &nbsp; </span> <a href="tel:0000000000">00 0000 0000</a></li>
                             </ul>
 						</div>
 					</div>
 				</div>
 
                 <div class ="copyright-area">
-                    <p>Copyright @2022. All rights reserved by <a href="#">Gharawas</a></p>
+                    <p>Copyright @2022. All rights reserved by <a href="#">GharAwas</a></p>
                 </div>
             </div>
 
