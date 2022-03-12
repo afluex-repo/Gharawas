@@ -192,6 +192,8 @@
     <Content Include="assets\css\widgets\modules-widgets.css" />
     <Content Include="assets\img\addnew.png" />
     <Content Include="assets\img\dash.png" />
+    <Content Include="assets\img\gharawasj.jpg" />
+    <Content Include="assets\img\gharawasp.png" />
     <Content Include="assets\img\payment.png" />
     <Content Include="assets\img\pin.png" />
     <Content Include="assets\img\QR.jpeg" />
