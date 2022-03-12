@@ -41,7 +41,7 @@ document.write(`
                     <div class ="luvion-responsive-menu">
                         <div class ="logo" style="width: 100px">
                             <a href="index.html">
-                                <img src="assets/img/logo.png" alt="logo">
+                                <img src="assets/img/logo.png" alt="logo" width="70px">
                                 <img src="assets/img/logo.png" alt="logo" width="80px">
                             </a>
                         </div>
@@ -64,7 +64,7 @@ document.write(`
 
                                 <li class ="nav-item"><a href="about.html" class ="nav-link">About Us</a></li>
 
-                                <li class ="nav-item"><a href="forex.html" class ="nav-link">Real Estate</a></li>
+                                <li class ="nav-item"><a href="real-estate.html" class ="nav-link">Real Estate</a></li>
 
                                 <li class ="nav-item"><a href="services.html" class ="nav-link">Services</a></li>
 
